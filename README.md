@@ -4,9 +4,9 @@
 > SOROUSH HOMAYOUNI<br>
   Artificial intelligence lecturer<br>
   Ai Developer | Programmer | Designer<br>
-  <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="500"/>
 
 <p align="center">
+    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/load.gif" width="500"/>
 </p>
 
 
