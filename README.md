@@ -5,7 +5,7 @@
   Artificial intelligence lecturer<br>
   Ai Developer | Programmer | Designer<br>
 
-<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="500"/>
 
 
 ## 🔗 Follow me :
