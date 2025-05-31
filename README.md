@@ -6,7 +6,7 @@
   Ai Developer | Programmer | Designer<br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/load.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/load.gif" width="500"/>
 </p>
 
 
