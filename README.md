@@ -1,10 +1,9 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
 
 > "Good things dont last...🪽"
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=persianhoosh&show_icons=true&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=persianhoosh&show_icons=true&theme=tokyonight)
 
 ## 🔗 Follow me :
 
