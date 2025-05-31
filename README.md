@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
 
-> "برنامه‌نویسی برای من فقط یک شغل نیست، یه شیوه زندگیه."
+> "Good things dont last...🪽"
 
 <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
 
