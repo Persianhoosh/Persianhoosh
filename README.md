@@ -1,8 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
 
 > "Good things dont last...🪽
-soroush homayouni
-Ai Developer | programmer"
+  soroush homayouni
+  Ai Developer | programmer"
 
 <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
 
