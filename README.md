@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
-## About me :
 
+## About me :
 > SOROUSH HOMAYOUNI<br>
   Artificial intelligence lecturer<br>
   Ai Developer | Programmer | Designer<br>
