@@ -1,5 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
-<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="220" height="220"/>
+<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="220"/>
 
 ## 🔗 Follow me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aihoma)
