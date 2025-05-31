@@ -1,10 +1,12 @@
 ![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/homa.png)
 
+## About me :
+" SOROUSH HOMAYOUNI <br>
+  Ai Developer | Programmer <br>
+  
+"
 
-
-<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>> "Good things dont last...🪽 <br>
-soroush homayouni <br>
-Ai Developer | programmer"
+<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>>
 
 
 
