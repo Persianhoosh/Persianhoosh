@@ -8,10 +8,8 @@
 <img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
 
 
-## 
-![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/banner.png)
-
 ## 🔗 Follow me :
+![Banner](https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aihoma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/persianhoosh)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AiHoma)
