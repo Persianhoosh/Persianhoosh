@@ -2,11 +2,11 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>
-
-> "Good things dont last...🪽 <br>
+<img src="https://raw.githubusercontent.com/Persianhoosh/i-.icons/main/loading.gif" width="300"/>> "Good things dont last...🪽 <br>
 soroush homayouni <br>
 Ai Developer | programmer"
+
+
 
 
 ## 🔗 Follow me :
